@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sasindu1997
-- 👀 I’m interested in FullStack development.
+- 👀 I’m interested in FullStack development with JavaScript.
 - 🌱 I’m currently learning .Net, Java and DevOps
 <!-- - 💞️ I’m looking to collaborate on opensource -->
 - 📫 How to reach me 
